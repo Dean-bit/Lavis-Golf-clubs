@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lavishgolfplay</string>
+    <string name="hint_fname">Jina La kwanza</string>
+    <string name="hint_lname">Jina La Mwisho</string>
+    <string name="hint_email">Barua pepe</string>
+    <string name="about">Kuhusu appu</string>
+    <string name="about_app">Dean alitengeneza appu</string>
+    <string name="hint_password">Neno siri</string>
+    <string name="hint_confirm_password">Eka neno siri tena</string>
+    <string name="btn_reg">Jiandikishe</string>
+    <string name="link_login">Tayari uko na Accounti?</string>
+    <string name="empty_details">Hamna lolote</string>
+    <string name="short_password">Neno siri ni fupi</string>
+    <string name="creating_account">Ongeza mtumizi</string>
+    <string name="signup_error">Tatizo katika kujiandikisha</string>
+    <string name="success_signup">Keshafanikiwa kujiandikisha</string>
+    <string name="btn_login">Ingia</string>
+    <string name="btn_link_reg">Huna Accounti?</string>
+    <string name="empty_fields">Maneno ulio eka ni mafupi</string>
+    <string name="success_login">Keshafanikiwa Kuingia</string>
+    <string name="wrong_credentials">Tafadhali angalia hati zako za kuingia</string>
+    <string name="logging_in">"Kuangalia vitambulisho "</string>
+    <string name="welcome">Karibu</string>
+    <string name="btn_logout">Jitoe</string>
+    <string name="HamburgerFalkenstein">Mnamo Januari 16, 1906, Hamburger Golf-Club ilianzishwa katika Jengo la Patriotic la Hamburg. Kuanzia 1928 hadi 1930, wasanifu mashuhuri wa uwanja wa gofu Colt, Alison, na Morrison waliunda kito cha usanifu wa gofu wa Kiingereza kwenye majengo ya kilabu ambayo bado yapo leo. Ukarabati wa hivi karibuni na David Krause umebadilisha kozi hiyo kuwa fomu ndogo ya kupigwa kwa mbwa wa jadi wa Colt, lakini hii inabaki kuwa kozi nzuri sana inayopitia misitu ya chini kwenye mchanga wa bure.</string>
+    <string name="BudersandSylt">Chini ya maili kumi kutoka magharibi kutoka pwani ya kaskazini mwa Ujerumani kuna kisiwa kidogo cha Sylt. Mafungo ya kupotea ya kupotea kwa seti ya ndege ya Ujerumani, ni nyumbani kwa kozi nne za gofu, na Budersand bora, inayopatikana kwenye ncha ya kusini ya kisiwa hicho, inayojulikana zaidi.  Ingawa kozi hiyo ni chini ya umri wa miaka kumi, inaonekana na inacheza kama imekuwa hapa kwa miongo kadhaa, kwa hivyo asili ni njia juu ya kiunga safi. Kwa kufurahisha, kozi hiyo ilikuwa uundaji wa kwanza wa mbuni wa mazingira wa eneo hilo aligeuza mbunifu wa kozi, Rolf-Stephan Hansen.</string>
+    <string name="BadGriesbach">Kuna mipangilio sita ya shimo 18 katika hoteli hii kubwa.  Kozi ya Brunnwies ilikuwa uumbaji wa kwanza wa Banger huko Bad Griesbach, na, kwa kweli, bado ni bora zaidi. Inapita juu ya ardhi inayotembea kupitia mandhari ya Bavaria yenye misitu, huu ni mpangilio unaovutia sana ambao unachanganya kwa usawa katika mazingira ya asili.  Ni kozi ngumu na maji kucheza sehemu kwenye mashimo kadhaa na kuadhibu mbaya kucheza sehemu kwenye kila shimo.</string>
+    <string name="GutLärchenhof">Kozi pekee ya Saini ya Jack Nicklaus ni moja ambayo inachanganya kwa ustadi uchezaji na huduma nyingi za kimkakati na za kuona. Nicklaus alitaka majaribio makuu yaje mwishoni mwa kila tisa, na amefanikiwa.</string>
+    <string name="title_activity_scrolldetails">Maelezo zaidi</string>
+    <string name="action_settings">mipangilio</string>
+    <string name="Fohr">Kaskazini tu mwa Hamburg na karibu na mpaka wa Denmark unakaa kisiwa cha Fohr ambacho kina uwanja mzuri wa gofu kwenye ardhi yake. Frank Pennink aliweka pamoja mashimo tisa ya asili mnamo miaka ya 1970 na Donald Harradine akiyapanua hadi mashimo 18 mnamo 1980.  Hatimaye kozi hiyo ilibadilishwa upya (na mashimo mengine tisa yaliongezwa) ambayo inamaanisha kuwa iliongezeka kutoka nguvu na nguvu na sasa ni moja wapo ya kozi bora nchini.</string>
+    <string name="BadSarrow">" Ikiwa na matumizi ya mchanga kwa ujasiri pamoja na bunkers nyingi za sufuria, kozi ya Faldo inaonyesha umakini tu kwa undani ambayo ungetarajia kutoka kwa mbuni wake.  Kulingana na Sir Nick, \"Iliyowasilishwa na ardhi yenye upepo, mchanga, nia yangu ilikuwa kiunga kizuri kinachokumbusha Scotlands Muirfield na Carnoustie.  Hii ni uwanja wa gofu zaidi na pia kuna mpangilio wa Arnold Palmer katika kilabu pia. "</string>
+    <string name="Winston">Uundaji wa David Krause, kozi ya Viungo huko Winston ilikuwa ujenzi mkubwa, kama mita za ujazo milioni 1.2 za ardhi zilihamishwa wakati wa ujenzi wake.  Mazingira ya kuzunguka ni ya kipekee sana na ina riwaya kwake ambayo ni ngumu kupata boring.</string>
+</resources>

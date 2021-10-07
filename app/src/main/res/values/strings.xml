@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Lavishgolfplay</string>
+    <string name="hint_fname">Enter Firstname</string>
+    <string name="hint_lname">Enter Lastname</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="about">About App</string>
+    <string name="about_app">Dean made this app</string>
+
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_reg">Register</string>
+    <string name="link_login">Already have an account?</string>
+    <string name="empty_details">Empty Details</string>
+    <string name="short_password">Password too short</string>
+    <string name="creating_account">Adding User</string>
+    <string name="signup_error">Error occured during Registration</string>
+    <string name="success_signup">Registration Success</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_link_reg">Don\'t have an Account?</string>
+    <string name="empty_fields">Yout input fields are empty</string>
+    <string name="success_login">Login Success</string>
+    <string name="wrong_credentials">Please check your login credentials</string>
+    <string name="logging_in">Checking credentials</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">Logout</string>
+    <string name="HamburgerFalkenstein">On January 16, 1906, the Hamburger Golf-Club was founded in Hamburg\'s "Patriotic Building". From 1928 to 1930, the world-famous golf-course architects Colt, Alison, and Morrison created a masterpiece of English golf architecture on the club\'s premises that still exists today. Recent remodelling by David Krause has changed the course a little form the traditional Colt bunkering, but this remains a very fine course running through undulating woodland on free-draining soil.
+</string>
+    <string name="BudersandSylt"> Less than ten miles due west off the coast of northern Germany lies the small island of Sylt. A favourite getaway retreat for the German jet set, it’s home to four golf courses, with the superb Budersand, found at the island’s southern tip, the most notable.
+
+Although the course is less than ten years old, it looks and plays like it’s been here for decades, so natural is the routing over the pure linksland. Interestingly, the course was the debut creation of local landscape architect turned course architect, Rolf-Stephan Hansen.</string>
+    <string name="Fohr">
+Just north of Hamburg and close to the Danish border sits Fohr island which has a brilliant golf course on its land. Frank Pennink put together the original nine holes in the 1970’s with Donald Harradine extending it to 18 holes in the 1980’s.
+
+Eventually the course was redesigned (and nine more holes were added) which has meant it gone from strength to strength and is now one of the best courses in the country.</string>
+    <string name="BadSarrow">
+Featuring bold use of sand including many pot bunkers, the Faldo course reflects just the attention to detail that you would expect from its designer.
+
+According to Sir Nick, “Presented with a windswept, sandy tract of land, my intention was a great a classic links reminiscent of Scotlands Muirfield and Carnoustie.
+
+This is very much a golfer’s golf course and there is also an Arnold Palmer designed layout at the club too.</string>
+    <string name="Winston">
+A David Krause creation, the Links course at Winston was a mammoth construction, as much as 1.2 million cubic metres of land was moved throughout its build.
+
+The rolling landscape is very unique and has a novelty to it which is hard to find boring.</string>
+    <string name="BadGriesbach">There are six 18-hole layouts at this huge resort.
+
+The Brunnwies Course was Banger’s first creation at Bad Griesbach, and it, arguably, remains his finest. Trvalleing over rolling terrain through the wooded Bavarian landscape, this is a highly attractive layout that blends seamlessly into the natural surroundings.
+
+It’s a challenging course with water playing a part on a number of holes and punishing rough playing a part on every hole.</string>
+    <string name="GutLärchenhof">Germany’s only Jack Nicklaus Signature Course is one which cleverly combines playability with plenty of strategic and visual features. Nicklaus wanted the major tests to come towards the end of each nine, and this he has achieved.</string>
+    <string name="title_activity_scrolldetails">scrolldetails</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
